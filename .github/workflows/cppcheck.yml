@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: cppcheck-action
 
 on:
   push:
