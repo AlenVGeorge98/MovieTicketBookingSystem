@@ -92,6 +92,5 @@ char* search(char* m_name);
 */
 char *view_booked();
 
-
 #endif // __MOVIE_H__
 
