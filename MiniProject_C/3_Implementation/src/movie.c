@@ -385,7 +385,7 @@ int view_bookings()
         printf("FILE NOT FOUND");
         exit(1);
     }
-    //summary of all bookings
+    //summary of all bookings, for admins
     printf("\n ********************************* SUMMARY ****************************************\n");
 while(fread(&m, sizeof(struct movie_details),1,fp2))
 {
