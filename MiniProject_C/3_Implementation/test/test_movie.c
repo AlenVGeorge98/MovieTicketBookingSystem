@@ -27,7 +27,7 @@ int main() {
 /* Note: Do not edit END */
 
 
-  /* Add your test functions in this format for testing*/
+ 
   CU_add_test(suite,"admin",test_admin);
   CU_add_test(suite,"addM",test_addM);
   CU_add_test(suite,"userReg",test_userReg);
