@@ -4,7 +4,6 @@
 #include<string.h>
 
 
- //flag for user login
 int flag_a=0; //flag for admin login
 int flag_u=0; //flag for user login
 char res_log[30];
